@@ -1,16 +1,16 @@
 const CONFIG = {
-    introTitle: 'hé lo ytr!',
+    introTitle: 'hi bby!',
     introDesc: `:>`,
     btnIntro: 'hihi',
-    title: 'ytr thích em đúng khum',
+    title: 'bby thích mình đúng khum',
     desc: 'đúng hokk ',
     btnYes: 'đúnggg',
     btnNo: 'thích cc',
-    question:'sao ytr lại thích em',
+    question:'sao thích tui dọ',
     btnReply: 'trả lời i',
-    reply: 'vì em đẹp',
-    mess: 'ngại ghê em biết em đẹp',
-    messDesc: 'chiều mai đi cf zới em nhe ytr.',
+    reply: 'vì thư đẹp với dễ thươnggg',
+    mess: 'ngại ghê hihi',
+    messDesc: 'cưới tui nha.',
     btnAccept: 'Okiiiii ',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
